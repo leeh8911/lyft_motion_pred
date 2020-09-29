@@ -1,4 +1,6 @@
 .vscode/
-lyft-motion-prediction-autonomous-vehicles/
+data/
+logs/
+model_checkpoints/
 
 *.zip
